@@ -1,22 +1,53 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
+	"storyName": "Daddy Dearest",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"improbable-outset",
+			"trickyMask",
+			[
+				24,
+				95,
+				64
+			]
+		],
+		[
+			"madness",
+			"tricky",
+			[
+				24,
+				95,
+				64
+			]
+		],
+		[
+			"hellclown",
+			"trickyH",
+			[
+				204,
+				204,
+				204
+			]
+		],
+		[
+			"expurgation",
+			"exTricky",
+			[
+				255,
+				25,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 1"
 }
