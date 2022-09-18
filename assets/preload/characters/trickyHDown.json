@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				475,
+				-450
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Proper Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Down",
+	"position": [
+		-1400,
+		-2000
+	],
+	"healthicon": "trickyH",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		-132.5,
+		640
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

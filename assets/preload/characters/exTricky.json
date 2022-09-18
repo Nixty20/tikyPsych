@@ -9,65 +9,76 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Dad idle dance"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				0,
+				100
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Dad Sing Note UP"
+			"name": "Sing Up"
 		},
 		{
 			"offsets": [
-				0,
-				27
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Dad Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				0,
-				-30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Dad Sing Note DOWN"
-		},
-		{
-			"offsets": [
-				-10,
-				10
+				127,
+				20
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Dad Sing Note LEFT"
+			"name": "Sing Left"
+		},
+		{
+			"offsets": [
+				-209,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sing Right"
+		},
+		{
+			"offsets": [
+				-100,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sing Down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "Hank",
+			"indices": [],
+			"name": "Hank"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/EXTRICKY",
 	"position": [
-		0,
-		0
+		-250,
+		-365
 	],
-	"healthicon": "dad",
+	"healthicon": "exTricky",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		255,
+		25,
+		0
 	],
 	"camera_position": [
 		0,

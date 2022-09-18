@@ -101,50 +101,6 @@
 		},
 		{
 			"offsets": [
-				7,
-				4
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				37,
-				11
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "firstDeath",
-			"indices": [],
-			"name": "BF dies"
-		},
-		{
-			"offsets": [
-				37,
-				5
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "deathLoop",
-			"indices": [],
-			"name": "BF Dead Loop"
-		},
-		{
-			"offsets": [
-				37,
-				69
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "deathConfirm",
-			"indices": [],
-			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
 				-4,
 				0
 			],
@@ -156,8 +112,8 @@
 		},
 		{
 			"offsets": [
-				31,
-				22
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -167,7 +123,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BF_3rd_phase",
 	"position": [
 		0,
 		0

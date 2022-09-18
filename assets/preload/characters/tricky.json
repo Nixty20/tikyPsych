@@ -3,71 +3,71 @@
 		{
 			"offsets": [
 				0,
-				0
+				-75
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Dad idle dance"
+			"name": "Idle"
 		},
 		{
 			"offsets": [
-				-6,
-				50
+				93,
+				-76
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Dad Sing Note UP"
+			"name": "Sing Up"
 		},
 		{
 			"offsets": [
-				0,
-				27
+				16,
+				-176
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Dad Sing Note RIGHT"
+			"name": "Sing Right"
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				6,
+				-84
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Dad Sing Note DOWN"
+			"name": "Sing Down"
 		},
 		{
 			"offsets": [
-				-10,
-				10
+				103,
+				-72
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Dad Sing Note LEFT"
+			"name": "Sing Left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/DADDY_DEAREST",
+	"image": "characters/tricky",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "dad",
+	"healthicon": "tricky",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		24,
+		95,
+		64
 	],
 	"camera_position": [
 		0,

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				498,
+				-300
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Proper Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/right",
+	"position": [
+		-1400,
+		-2000
+	],
+	"healthicon": "trickyH",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		204,
+		204
+	],
+	"camera_position": [
+		-148.5,
+		600.5
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
